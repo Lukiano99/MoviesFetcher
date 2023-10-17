@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/MoviesFetcher/static/css/main.6b509eb6.css",
+    "main.js": "/MoviesFetcher/static/js/main.74e571d8.js",
+    "index.html": "/MoviesFetcher/index.html",
+    "main.6b509eb6.css.map": "/MoviesFetcher/static/css/main.6b509eb6.css.map",
+    "main.74e571d8.js.map": "/MoviesFetcher/static/js/main.74e571d8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6b509eb6.css",
+    "static/js/main.74e571d8.js"
+  ]
+}
